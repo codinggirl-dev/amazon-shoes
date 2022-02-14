@@ -1,0 +1,98 @@
+.body{
+    top:0;
+    margin:0px;
+    background-color:#C4C4C4 ;
+}
+
+.container-fluid{
+    background-color: black;
+    top:0;
+    height:70px;
+    margin-top:-10px;
+    margin-bottom: -10px;
+    padding-bottom: 0px;
+}
+
+.logo{
+    height:70px;
+    width:150px;
+}
+.nav-link:link{
+    color:#FFFFFF;
+    padding:10px;
+    margin:20px;
+}
+
+a.nav-link:visited{
+    color:#FFFFFF;
+}
+
+a.nav-link.active{
+    border-bottom: 1px solid white;
+}
+
+a.nav-link:hover {
+    color: #FFFFFF;
+}
+
+.heading{
+    background: #E5E5E5;
+    margin-top:0px;
+    padding: 10px;
+    box-shadow: 0px 3.8625px 7.72499px -5.15px rgba(0, 0, 0, 0.12), 0px 7.72499px 20.6px rgba(0, 0, 0, 0.08), 0px 11.5875px 36.05px 10.3px rgba(0, 0, 0, 0.05);
+}
+
+.products{
+    width: 100%;
+    height: 1589.73px;
+    background-color: #F9F9F9 ;
+}
+
+.no_products{
+    display:inline;
+    padding-top: 100px;
+    margin:100px;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 41px;
+}
+
+.dropdown{
+    padding:35px;
+    margin-right: 100px;
+    float: right;
+    display: inline;
+}
+
+.btn{
+    padding:15px;
+    margin:10px;
+}
+
+.checked {
+    color: orange;
+}
+
+#card_display{
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 150px;
+}
+
+.line{
+    border:3px solid #17353D;
+    opacity: 0.2;
+}
+
+#star {
+    background-color: #f79b3461;
+    opacity:0.8;
+  }
+
+  ul.dropdown-menu.active {
+    background-color: yellow;
+}
+
+  
